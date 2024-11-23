@@ -1,0 +1,15 @@
+{
+  "name": "bunproject1",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "elysia": "^1.1.24",
+    "mongoose": "^8.8.1"
+  }
+}
